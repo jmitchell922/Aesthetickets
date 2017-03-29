@@ -1,0 +1,32 @@
+{
+  "name": "aesthetickets",
+  "version": "1.0.0",
+  "description": "Aesthetic IT Ticket System",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmitchell922/Aesthetickets.git"
+  },
+  "author": "Justin",
+  "contributors": [
+    {
+      "name": "Justin"
+    },
+    {
+      "name": "Taylor"
+    }
+  ],
+  "license": "UNLISCENSED",
+  "bugs": {
+    "url": "https://github.com/jmitchell922/Aesthetickets/issues"
+  },
+  "homepage": "https://github.com/jmitchell922/Aesthetickets#readme",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
+  }
+}
